@@ -51,6 +51,10 @@ p span.i2{
 /* end of poem/verse/song */
 
 /* custom */
+q{
+	font-style: italic;
+}
+
 section[id^="dedication-"] header {
 	font-style: italic;
 	margin-bottom: 1em;
