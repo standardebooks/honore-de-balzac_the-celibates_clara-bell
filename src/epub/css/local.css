@@ -55,6 +55,10 @@ q{
 	font-style: italic;
 }
 
+section[id^="dedication-"]{
+	margin-top: 3em;
+}
+
 section[id^="dedication-"] header{
 	font-style: italic;
 	margin-bottom: 1em;
