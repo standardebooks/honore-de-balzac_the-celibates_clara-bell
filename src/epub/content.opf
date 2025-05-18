@@ -38,6 +38,10 @@
 		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">Unknown</meta>
 		<meta property="se:subject">Fiction</meta>
+		<meta id="collection-1" property="belongs-to-collection">The Human Comedy</meta>
+		<meta property="collection-type" refines="#collection-1">series</meta>
+		<meta id="collection-2" property="belongs-to-collection">The Human Comedy: Scenes from Provincial Life</meta>
+		<meta property="collection-type" refines="#collection-2">series</meta>
 		<dc:description id="description">Three disparate stories of bachelors and old maids.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;With &lt;i&gt;The Celibates&lt;/i&gt;, &lt;a href="https://standardebooks.org/ebooks/honore-de-balzac"&gt;Balzac&lt;/a&gt; formed a unit of three unrelated stories concerning bachelors and/or old maids.&lt;/p&gt;
