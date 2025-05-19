@@ -55,11 +55,11 @@ q{
 	font-style: italic;
 }
 
-section[id^="dedication-"]{
+[epub|type~="dedication"]{
 	margin-top: 3em;
 }
 
-section[id^="dedication-"] header{
+[epub|type~="dedication"] header{
 	font-style: italic;
 	margin-bottom: 1em;
 }
