@@ -50,7 +50,7 @@
 		<meta property="schema:hasPart" refines="#collection-3" id="collection-3-entry-1">schema:hasPart</meta>
 		<meta property="rdf:type" refines="#collection-3-entry-1">http://schema.org/CreativeWork</meta>
 		<meta property="schema:name" refines="#collection-3-entry-1">A Bachelor’s Establishment</meta>
-		<dc:abstract>The lives of bachelors and old maids are illustrated in three disparate stories.</dc:abstract>
+		<meta property="schema:abstract">The lives of bachelors and old maids are illustrated in three disparate stories.</meta>
 		<dc:description>
 			&lt;p&gt;In &lt;i&gt;The Celibates&lt;/i&gt;, &lt;a href="https://standardebooks.org/ebooks/honore-de-balzac"&gt;Balzac&lt;/a&gt; forms a unit of three unrelated stories concerning bachelors and old maids.&lt;/p&gt;
 			&lt;p&gt;In the first, “Pierette,” a young woman is sent to live with her aunt and uncle, an unmarried brother and sister who view her as a leech on their business earnings and hound her beyond endurance.&lt;/p&gt;
